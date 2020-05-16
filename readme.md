@@ -20,7 +20,7 @@
 |on_mouse  |define the action when the user clicks some point of the disparity image|
  
 
-**folder hierarchy**
+**Folder Hierarchy**
 
 /data/20191211/
 	
@@ -50,6 +50,6 @@
 
 &emsp;&emsp;|- log_click
 
-**project properties**
+**Project Properties**
 
 in Project Properties Manager, you can add existing property sheet(SVDrive/env_opencv.props) when you are creating new projects.
